@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mrtee-xs.github.io/fitnigeria-preview/sitemap.xml
